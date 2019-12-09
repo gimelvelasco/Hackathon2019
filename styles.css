@@ -1,0 +1,32 @@
+body{
+	background: #EEE;
+}
+#div1{
+	border: solid gray 1px;
+	width: 20%;
+	border-radius: 5px;
+	margin: 100px auto;
+	background: white;
+}
+#div2{
+	border: solid gray 1px;
+	width: 20%;
+	border-radius: 5px;
+	margin: 100px auto;
+	background: gray;
+}
+
+#div3{
+	border: solid gray 1px;
+	width: 20%;
+	border-radius: 5px;
+	margin: 100px auto;
+	background: gray;
+}
+
+#request_button{
+	color: black;
+	background: #white;
+	padding: 5px;
+	margin-left: 70%;
+}
